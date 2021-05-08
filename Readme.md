@@ -4,7 +4,7 @@
 3. Run the command: node app.js
 4. Register an account and login 
 
-### Sample Username and password to use are as follows:
+### Sample Username and password to use:
 - Username: johndoe@email.com
 - Password: password
 
